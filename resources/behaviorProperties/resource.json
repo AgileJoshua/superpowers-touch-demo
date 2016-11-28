@@ -1,0 +1,10 @@
+{
+  "behaviors": {
+    "TouchBehavior": {
+      "scriptId": "4",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

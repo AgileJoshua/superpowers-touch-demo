@@ -1,0 +1,25 @@
+{
+  "nextEntryId": 6,
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Scene",
+      "type": "scene"
+    },
+    {
+      "id": "2",
+      "name": "TouchOnly",
+      "type": "scene"
+    },
+    {
+      "id": "5",
+      "name": "Pistol",
+      "type": "sprite"
+    },
+    {
+      "id": "4",
+      "name": "TouchBehavior",
+      "type": "script"
+    }
+  ]
+}
